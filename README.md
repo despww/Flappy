@@ -1,1 +1,1 @@
-# Flappy
+Flappy Bird is a simple yet highly addictive mobile game that gained immense popularity in the early 2010s. Developed by Dong Nguyen and released in 2013, the game quickly became a cultural phenomenon. In Flappy Bird, players control a small, pixelated bird and guide it through a series of narrow gaps between green pipes. The objective is to keep the bird flying for as long as possible without hitting any obstacles.
